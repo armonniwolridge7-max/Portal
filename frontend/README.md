@@ -1,0 +1,1 @@
+Minimal React frontend. Set REACT_APP_API_URL if backend is remote.
